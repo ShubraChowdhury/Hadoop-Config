@@ -27,7 +27,7 @@
  
 <property>
 <name>hbase.rootdir</name>
-  <value>hdfs://yourNameNodeServerName.fdic.gov:8020/hbase</value>
+  <value>hdfs://yourNameNodeServerName:8020/hbase</value>
 </property>
  
 <property>
