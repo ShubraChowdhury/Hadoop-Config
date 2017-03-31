@@ -1,2 +1,2 @@
 # Hadoop-Config
-These are hadoop config files that I have used with CDH5.5
+These are sample hadoop config files for CDH5.5
